@@ -32,11 +32,11 @@ const Footer = () => {
                     <a href="/">All Versions</a>
                 </div>
                 <div>
-                    <h4>Community</h4>
-                    <a href="/">GitHub</a>
-                    <a href="/">Issues</a>
-                    <a href="/">Projects</a>
-                    <a href="/">Twitter</a>
+                    <h4>Pages</h4>
+                    <a href="/">About</a>
+                    <a href="/">Service</a>
+                    <a href="/">Contact</a>
+                    <a href="/">Home</a>
                 </div>
                 <div>
                     <h4>Help</h4>
