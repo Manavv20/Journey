@@ -1,14 +1,16 @@
 import "./ContactFormStyles.css"
+// import  React from 'react'
 function ContactForm(){
     return(
         <div className="from-container">
-            <h1>Send a Message to us</h1>
             <form>
-                <input placeholder="Name"/>
-                <input placeholder="Email"/>
-                <input placeholder="Subject"/>
+                <h1>Send a Message to us</h1>
+                <input type="text" id="name" class="form-control" placeholder="Enter your Name"/>
+                <input type="text" id="email" class="form-control" placeholder="Enter your Email"/>
+                <input type="text" id="subject" class="form-control" placeholder="Subject"/>
                 <textarea placeholder="Message" rows="4"></textarea>
-                <button>Send Message</button>
+                <button type="submit">Submit</button>
+                
             </form>
         </div>
 

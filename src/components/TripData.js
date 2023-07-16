@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "./TripStyles.css"
 
 function TripData(props) {
@@ -8,6 +9,11 @@ function TripData(props) {
             </div>
         <h4>{props.heading}</h4>
         <p>{props.text}</p>
+        <div className="icon-style">
+        <Link>
+        <i className={props.icon}></i>
+        </Link>
+        </div>
         </div>
     )
 }
