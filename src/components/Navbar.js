@@ -4,12 +4,16 @@ import {Link} from "react-router-dom"
 import { MenuItems } from "./MenuItems";
 
 
+
 class Navbar extends Component{
     state = {clicked: false};
     handleClick = () => {
         this.setState({clicked:!this.state.clicked})
     }
-    render() {
+    
+    render() 
+  
+    {
         return(
             <nav className="NavbarItems">
                 
@@ -29,9 +33,8 @@ class Navbar extends Component{
                         )
                     }
                     )}
-                    <button>
-                        Sign Up
-                    </button>
+        
+                      
                 </ul>
             </nav>
         )

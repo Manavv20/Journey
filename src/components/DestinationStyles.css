@@ -20,6 +20,7 @@ margin-top: 4.5rem;
     align-items: center;
     justify-content: space-between;
     margin-top: 4.5rem;
+    padding-top: 4rem;
     }
 .des-text{
     width: 45%;
@@ -63,6 +64,7 @@ margin-top: 4.5rem;
         display: flex;
         flex-direction: column-reverse;
         margin-top: 4.5rem;
+        padding-top: 1rem !important;
         }
     .des-text{
         width: 100%;
