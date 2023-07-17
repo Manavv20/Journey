@@ -7,7 +7,7 @@ import "./DestinationStyles.css"
 const Destination = () =>{
     return(
         <div className="destination">
-            <h1> Popular Destination</h1>
+            <h1> Popular Destinations</h1>
             <p>Tours give you the oppurtunity to see a lot, within a time frame.</p>
 <DestinationData
 className="first-des"

@@ -5,7 +5,9 @@ import Service from './routes/Service';
 import Contact from './routes/Contact';
 import About from './routes/About';
 import { Route, Routes } from 'react-router-dom';
-import ContactForm from './components/ContactForm';
+// import ContactForm from './components/ContactForm';
+// import { Document, Page } from 'react-pdf';
+
 function App() {
 
   return (
@@ -16,7 +18,7 @@ function App() {
         <Route path='/service' element={<Service/>}/>
         <Route path='/contact' element={<Contact/>}/>
       </Routes>
-      
+
     </div>
   );
 }
