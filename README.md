@@ -1,5 +1,3 @@
-Sure! Here's a sample README file for your React travel website project:
-
 # Travel Website
 
 Welcome to the Travel Website! This is a React-based web application that provides information and inspiration for travelers. Users can browse through various destinations, view details about each location, and even book their travel arrangements.
