@@ -5,6 +5,7 @@ import Service from './routes/Service';
 import Contact from './routes/Contact';
 import About from './routes/About';
 import { Route, Routes } from 'react-router-dom';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   const [message, setMessage] = useState("");

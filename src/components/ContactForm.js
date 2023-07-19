@@ -29,50 +29,50 @@ function ContactForm() {
     
         <div className="from-container">
             <form onSubmit={handleSubmit}>
-                <label>
-                    Name:
+                {/* <label>
+                    Name: */}
                     <input 
                     type="text"
-                    // placeholder="Please Enter your Name"
+                    placeholder="Name"
                     value={name}
                     onChange={(e) => setName(e.target.value)}
                     required
                     />
-                </label>
+                {/* </label> */}
                 <br/>
-                <label>
-                    Email:
+                {/* <label> */}
+                    {/* Email: */}
                     <input 
                     type="email"
-                    // placeholder="Please Enter your Email Id"
+                    placeholder="Email Id"
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
                     required
                     />
-                </label>
+                {/* </label> */}
                 <br/>
-                <label>
-                    Subject:
+                {/* <label>
+                    Subject: */}
                     <input 
                     type="subject"
-                    // placeholder="Please Enter Subject of your Message"
+                    placeholder="Subject"
                     value={subject}
                     onChange={(e) => setSubject(e.target.value)}
                     required
                     />
-                </label>
+                {/* </label> */}
                 <br/>
-                <label>
-                    Message:
+                {/* <label>
+                    Message: */}
                     <input 
                     type="message"
-                    // placeholder="Please Enter Message"
+                    placeholder="Message"
                     value={message}
                     onChange={(e) => setMessage(e.target.value)}
                     required
                     rows="20"
                     />
-                </label>
+                {/* </label> */}
                 <br/>
                 <button type="submit">Submit</button>
             </form>
