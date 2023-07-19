@@ -1,7 +1,11 @@
 import { useState } from "react";
 import "./ContactFormStyles.css"
+import axios from "axios";
 // import  React from 'react'
-function ContactForm(){
+function ContactForm() {
+    
+      
+  
     const [name, setName] = useState("");
     const [email, setEmail] = useState("");
     const [subject, setSubject] = useState("");
@@ -12,9 +16,17 @@ function ContactForm(){
         console.log("Email:", email);
         console.log("Subject:", subject);
         console.log("Message:", message);
-    };
+        alert("Form has been Submitted")
 
-    return(
+        setName('');
+        setEmail('');
+        setSubject('');
+        setMessage('');
+    };
+    
+
+    return (
+    
         <div className="from-container">
             <form onSubmit={handleSubmit}>
                 <label>
@@ -66,6 +78,8 @@ function ContactForm(){
             </form>
         </div>
 
+    
     );
 }
+
 export default ContactForm;

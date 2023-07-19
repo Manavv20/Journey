@@ -71,6 +71,9 @@ button:hover{
 .menu-icons i{
     color: #fff;
 }
+.menu-icons title{
+    color: #222;
+}
 @media screen and (max-width: 850px)
 {
     .NavbarItems{
@@ -135,7 +138,7 @@ button:hover{
 
     }
     .menu-icons{
-        font-size: 1.2rem;
+        font-size: 1.4rem;
         color: #222;
     }
 }

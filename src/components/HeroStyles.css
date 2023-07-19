@@ -25,7 +25,8 @@
     height: 700px;
 }
 .hero-contact h1{
-    padding-top: 20rem;
+    padding-top: 2rem;
+   
 }
 
 img{
@@ -69,7 +70,7 @@ img{
 }
 @media screen and (max-width:555px) {
     .hero-text h1{
-        font-size: 2rem;
+        font-size: 5rem;
         padding: 10px 20px;
     }
     .hero-text p{
