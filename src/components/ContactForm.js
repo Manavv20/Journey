@@ -25,6 +25,7 @@ function ContactForm() {
     };
     
 
+    
     return (
     
         <div className="from-container">
@@ -34,6 +35,7 @@ function ContactForm() {
                     <input 
                     type="text"
                     placeholder="Name"
+                    name="title"
                     value={name}
                     onChange={(e) => setName(e.target.value)}
                     required
@@ -45,6 +47,7 @@ function ContactForm() {
                     <input 
                     type="email"
                     placeholder="Email Id"
+                    name="email"
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
                     required
@@ -56,6 +59,7 @@ function ContactForm() {
                     <input 
                     type="subject"
                     placeholder="Subject"
+                    name="subject"
                     value={subject}
                     onChange={(e) => setSubject(e.target.value)}
                     required
@@ -67,6 +71,7 @@ function ContactForm() {
                     <input 
                     type="message"
                     placeholder="Message"
+                    name="message"
                     value={message}
                     onChange={(e) => setMessage(e.target.value)}
                     required
@@ -80,6 +85,8 @@ function ContactForm() {
 
     
     );
-}
+                }
 
 export default ContactForm;
+
+// src/App.js
