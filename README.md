@@ -79,6 +79,13 @@ npm install --save react react-router-dom redux axios bootstrap font-awesome
 
 Contributions to the Travel Website are welcome! If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
+## Fork
+
+Incase you like my design and idea of the travel website, you can fork it in your repository and start making changes u want to.
+You can fork by clicking the fork button in the repo.
+Type the following command in the terminal or cmd to clone it.
+git clone <repo-link>
+
 ## License
 
 The Travel Website is open-source software licensed under the [MIT license](LICENSE).
