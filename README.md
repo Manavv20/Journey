@@ -85,8 +85,9 @@ Incase you like my design and idea of the travel website, you can fork it in you
 You can fork by clicking the fork button in the repo.
 
 -Type the following command in the terminal or cmd to clone it.
+```shell
   git clone <repo-link>
-
+```git
 ---
 
 Feel free to customize this README file to match your specific project requirements. Good luck with your travel website!
