@@ -1,5 +1,3 @@
-Creating a comprehensive and informative README for your React.js project on tourism is crucial for potential collaborators and users to understand your project quickly. A well-structured README helps users navigate your project, know its purpose, and get started with using or contributing to it. Below is a template for a good README page on GitHub:
-
 # Happy Journey
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
