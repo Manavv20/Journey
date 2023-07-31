@@ -61,10 +61,10 @@ Outline the technologies, libraries, and frameworks used in your project. Mentio
 
 Explain how other developers can contribute to your project. Include guidelines for submitting bug reports, feature requests, and pull requests. Mention your code style preferences and any other relevant information.
 
-If you have a Code of Conduct for your project, link it here.
-
-
-
 ---
 
 Feel free to customize this template to match the specific details of your project. The README is often the first thing people see about your project, so make it clear, concise, and inviting. Providing enough information will encourage more users to try your tourism app and potentially contribute to its development.
+
+## Screenshots:
+Home Page:
+!(./src/assets/Homepage,png)
