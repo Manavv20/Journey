@@ -29,6 +29,7 @@ function ContactForm() {
     return (
     
         <div className="from-container">
+            <h1>Contact Form</h1>
             <form onSubmit={handleSubmit}>
                 {/* <label>
                     Name: */}

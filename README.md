@@ -68,3 +68,7 @@ Feel free to customize this template to match the specific details of your proje
 ## Screenshots:
 Home Page:
 <img src="/src//assets/Homepage.png" alt="Alt text" title="Optional title">
+<img src="/src//assets/Homepage1.png" alt="Alt text" title="Optional title">
+<img src="/src//assets/AboutPage.png" alt="Alt text" title="Optional title">
+<img src="/src//assets/ServicePage.png" alt="Alt text" title="Optional title">
+<img src="/src//assets/ContactPage.png" alt="Alt text" title="Optional title">
