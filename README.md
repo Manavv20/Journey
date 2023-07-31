@@ -1,7 +1,5 @@
 # Happy Journey
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+This is a tourism website, which showcases different tours our company offers. I have developed this website as my first basic React Website. I would also request other full stack developers, to have a look at this website, code, file management. Incase of any suggestions or changes kindly let me know, will be keen on working together to make this project a good one. 
 ## Description
 
 Provide a brief overview of your React.js tourism project. Explain its purpose, features, and what makes it unique. Include some screenshots or GIFs to give readers a glimpse of your project.
@@ -65,11 +63,7 @@ Explain how other developers can contribute to your project. Include guidelines 
 
 If you have a Code of Conduct for your project, link it here.
 
-## License
 
-Include the license information for your project. Choose an appropriate open-source license (e.g., MIT, Apache) and add a license badge at the top of the README.
-
-MIT License © [Your Name]
 
 ---
 
