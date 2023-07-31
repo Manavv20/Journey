@@ -67,4 +67,4 @@ Feel free to customize this template to match the specific details of your proje
 
 ## Screenshots:
 Home Page:
-!(./src/assets/Homepage,png)
+<img src="/src//assets/Homepage.png" alt="Alt text" title="Optional title">
