@@ -1,20 +1,15 @@
 # Happy Journey
 This is a tourism website, which showcases different tours our company offers. I have developed this website as my first basic React Website. I would also request other full stack developers, to have a look at this website, code, file management. Incase of any suggestions or changes kindly let me know, will be keen on working together to make this project a good one. 
 ## Description
-
 Provide a brief overview of your React.js tourism project. Explain its purpose, features, and what makes it unique. Include some screenshots or GIFs to give readers a glimpse of your project.
-
 ## Table of Contents
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
-
 ## Installation
-
 Explain how to set up and run your project locally. Provide clear and concise instructions, including any necessary dependencies. Use code blocks where appropriate.
 
 ```bash
@@ -75,3 +70,13 @@ Service Page:
 <img src="/src//assets/ServicePage.png" alt="Alt text" title="Optional title">
 Contact Page:
 <img src="/src//assets/ContactPage.png" alt="Alt text" title="Optional title">
+
+## Projects Done:
+1. Automobile Dealership Website
+2. Tourism Website
+3. Portfolio Website
+
+## Upcoming Projects:
+1. To-Do list Website
+2. Login - Signup Page
+3. E-Commerce Website
